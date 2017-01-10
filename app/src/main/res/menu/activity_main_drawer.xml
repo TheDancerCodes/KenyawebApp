@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_action_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_action_business"
+            android:title="Products" />
+        <item
+            android:id="@+id/nav_payments"
+            android:icon="@drawable/ic_action_creditcard"
+            android:title="Payments" />
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/ic_laptop"
+            android:title="Kenyaweb Blog" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_action_phone"
+                android:title="Contact Us" />
+
+            <item
+                android:id="@+id/nav_map"
+                android:icon="@drawable/ic_action_map"
+                android:title="Find Us" />
+
+            <item
+            android:id="@+id/nav_push"
+            android:icon="@drawable/ic_action_mail"
+            android:title="Push Notifications" />
+
+        </menu>
+    </item>
+
+</menu>

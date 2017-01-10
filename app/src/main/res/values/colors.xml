@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#F44336</color>-->
+    <color name="colorPrimary">#EC1E24</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorAccent">#14a751</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivider">#B6B6B6</color>
+
+    <color name="colorFragBG">#e6e6e6</color>
+
+    <color name="facebook">#3b5998</color>
+    <color name="twitter">#55acee</color>
+    <color name="linkedin">#0077b5</color>
+
+</resources>

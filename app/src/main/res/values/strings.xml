@@ -1,0 +1,305 @@
+<resources>
+    <string name="app_name">KenyawebApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lite_list_demo_label">Lite Mode ListView</string>
+
+    <string name="welcome">Welcome to Kenyaweb.com LTD</string>
+    <string name="welcome_text">An Award Winning IT Solutions Agency.We make brands that stay ahead of vision.</string>
+    <string name="welcome_text2"> Welcome Home.</string>
+
+    <string name="chooz">We understand technology, business and processes to devise solutions to reach,convert,close and retain customers. </string>
+    <string name="contact_tv">We at Kenyaweb believe that Good Service is Good Business and we know that loyal customers don\'t just come back,they don\'t just simply recommend you, they insist that their friends do business with you.</string>
+
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_nbi_office">Nairobi Office</string>
+    <string name="contact_msa_office">Mombasa Office</string>
+
+    <string name="contact_nbi_info">Head Office
+St Ellis House, 3rd Floor
+Building No. 2, Wabera Street,
+P.O Box 10636 - 00100,
+Nairobi Kenya,
+Tel:+254-020-2243310,
++254-020-356-0521
+Cell:+254-722-205594
+Email:info@kenyaweb.com
+marketing@kenyaweb.com</string>
+
+    <string name="contact_msa_info">Head Office
+New Canon Tower, Upper ground Floor,
+Moi Avenue Mombasa,
+P.O.Box 82371-80100,
+Mombasa Kenya,
+Cell:+254-041–222 9722
+Email:salesmsa@kenyaweb.com
+marketing@kenyaweb.com</string>
+
+    <string name="title_activity_maps">Office Location Maps</string>
+
+
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="Products">
+        <item>Latest Products</item>
+        <item>Internet</item>
+        <item>Web Services</item>
+        <item>Software Services</item>
+        <item>Mobile and VAS</item>
+        <item>SEO</item>
+        <item>ICT Consultancy</item>
+    </string-array>
+
+    <!--Services-->
+    <string name="internet_title">Internet</string>
+    <string name="web_serv_title">Web Services</string>
+    <string name="soft_serv_title">Software Services</string>
+    <string name="mobile_serv_title">Mobile &amp; VAS Services</string>
+    <string name="seo_title">Search Engine Optimization</string>
+    <string name="cons_title">ICT Consultancy Services</string>
+    <string name="latest_title">Latest Products and Services</string>
+
+    <string name="kweb_mobi_site">Mobi Site</string>
+
+
+    <string name="sme_dialog_title">SME Hosting Package</string>
+    <string name="sme_dialog_message">This package is best suited for SME/SOHO businesses.
+        \nOn renewal the customer will get an upgrade on the mini website.
+        \n\nThis package contains:
+        \n1) Unlimited Storage.
+        \n2) Mini Website.
+        \n3) Domain.
+        \n4) Unlimited Emails.
+        \n\nPrice: @4,999 Ksh P.A. (VAT Incl)
+    </string>
+
+    <string name="soho_dialog_title">SoHo Package</string>
+    <string name="soho_dialog_message">This package is best suited for SOHO businesses.
+        \n\nThis package contains:
+         \n1) Shared Wireless Internet.
+        \n2) Mini Website.
+        \n3) Domain.
+        \n4) Unlimited Storage.
+        \n5) Unlimited Emails.
+        \n\n Installation cost @2000 Ksh
+        \n WIFI Router @8000 Ksh
+        \n\nPrice: @9,999 Ksh P.A. (VAT Incl)
+    </string>
+
+    <string name="tShule_dialog_title">Tech-Shule</string>
+    <string name="tShule_dialog_message">This package is ideal for most educational institutions.
+        \n\nThis package contains:
+        \n1) Domain.
+        \n2) Unlimited Storage.
+        \n3) 50 Emails.
+        \n4) Mini Website.
+        \n5) Email Signature.
+        \n\nPrice: @12,999 Ksh P.A. (VAT Incl).
+    </string>
+
+    <string name="tShulePrem_dialog_title">Tech-Shule Premium</string>
+    <string name="tShulePrem_dialog_message">This package is ideal for most educational institutions.
+        \n\nThis package contains:
+        \n1) Domain.
+        \n2) Unlimited Storage.
+        \n3) 50 Emails.
+        \n4) Mini Website.
+        \n5) Email Signature.
+        \n6) Bulk SMS.
+        \n\nPrice: @25,999 Ksh P.A. (VAT Incl).
+    </string>
+
+
+    <string name="corporate_internet">Your business can\'t run without fast, reliable internet access.
+        At Kenyaweb.com ,we offer a range of internet connectivity solutions to overcome local connectivity obstacles.
+        Whether by VSAT, WiMax, or Fibre Optic Cables, we will find a solution to connect your small, medium,
+        large or multinational corporation to the internet.
+        We are just a phone call away and can connect your offices within a period of 48-72 hours maximum.
+    </string>
+
+    <string name="advanced_networks">Kenyaweb.com is able to offer market leading solutions for large enterprise customers
+        who need tailor-made solutions to meet their specific requirements.
+        \nBy subscribing to our solutions, your business increases productivity and revenue by ensuring your network remains
+        operational and secure. We are able to deliver the most reliable and appropriate solutions at the right price.
+        \nWe can provide you with the following solutions:
+    </string>
+
+    <string name="adv_net_solutions">
+        1) Point to Point connectivity between sites.\n
+        2) Layer 3 VPN connectivity between sites.\n
+        3) Layer 2 VPN connectivity between sites.\n
+        4) Multi-Protocol Label Switching (MPLS)\n
+        5) Services (International &amp; National).
+
+    </string>
+
+    <string name="web_design_dev">The design of your website is one of the most integral components of your web success.
+        \nFor your online presence to leave a lasting impression, your website needs to exude credibility, professionalism and quality.
+        \nWe understand that in an arena saturated with billions of web pages, a well-designed website is vitally important to marketing,
+        building brand awareness and attracting prospective customers. \nBecause of Mobile we develop responsive websites and portals
+        and keep up with the current web development standards.</string>
+
+    <string name="web_maintainance">We offer maintenance services as part of our value added services.
+        We appreciate the fact that in order for the website to function, it needs to be regularly updated to ensure there is fresh
+        content or information.
+        \nThe Success of a website is greatly dependant on how much you maintain and market your website.
+        We have a dedicated team that ensures that all your information is up-to date and the site keeps up with the current trends.
+        This ensures that your website has a fresh updated look as compared to a static website.
+        \nThe needs of a business are ever-changing and so is the company’s website required to respond to changes according to the
+        needs of the business and its customers.
+    </string>
+
+    <string name="web_hosting">All Businesses with a website require nothing less than a professional hosting site and to be provided by
+        a first class support.
+        \nOur web hosting solution is a comprehensive platform running on Linux platform.
+        It is an easy to use web hosting service offered at Kenyaweb.com both locally and on offshore hosting facilities.
+        \nOur secure servers are located locally with back up servers located in the US
+    </string>
+
+    <string name="software_dev">Kenyaweb’s Technologies vary from Microsoft.Net, to Sharepoint, BizTalk, Java, Open Source PHP etc.
+        \nWe firmly believe in "understanding" the needs and requirements of our clients to act wisely and in a timely manner.
+        In the current economic and technological environment, development and maintenance of software products that minimize spending
+        and maximizing the efficiency is a strenuous job for any enterprise.
+        \nTo achieve this difficult proposition Kenyaweb can be of great help. The current trends are gearing to business process
+        automation internally and externally to increase productivity.
+    </string>
+
+    <string name="software_dev2">Kenyaweb works in harmony with the clients to comprehend their business and processes and
+        accordingly suggests appropriate software development or maintenance solutions.
+        Our IT solutions encompass a team of experienced and skilled resources who develop and deliver customized quality solutions as
+        per clients\’ needs and budget.
+        \nWith our software development consultancy services, many customers have experienced reduced cost and risk along with faster ROI.
+
+    </string>
+
+    <string name="software_solns">The list of software include:\n
+        1) Web Portals\n
+        2) Intranets\n
+        3) Enterprise Resource Planning Solutions\n
+        4) Revenue collection systems\n
+        5) School Management Software\n
+        6) Vehicle Management Software\n
+        7) Document Management System\n
+        8) Asset Tagging Software\n
+        9) Sacco Management Software.
+    </string>
+
+    <string name="mobile_apps">The whole world is going mobile as the mobile landscape continues to scale rapidly.
+        There are currently 2.6 billion smartphone subscriptions globally and by 2020, globally there will be 6.1 smartphone
+        users due to an increase in growth of developing markets.
+        \nThis is good news for your business as you can take advantage of this new technological landscape.
+        We at Kenyaweb are here to help you do just that! The solution we are offering you is a Mobile Application.
+        \nA Mobile App is a software application developed specifically for use on small, wireless computing devices,
+        such as smartphones and tablets, rather than desktop or laptop computers.
+    </string>
+
+    <string name="mobile_service_areas">Kenyaweb develops different types of mobile applications for a variety of service areas like:\n\n
+        1) Business/ Enterprise - Customer Service, Customer Engagement, Support, Promotion, E-commerce.\n
+        2) Social.\n
+        3) Entertainment.\n\n
+
+        These are the features that we can incorporate into your application:\n
+        1. Social Media Integration.\n
+        2. Push Notifications.\n
+        3. Offline Capability.\n
+        4. Chat Functionality.\n
+        5. Maps Integration and Location Services.\n
+        6. Applications Analytics - To track customer usage and retention.\n
+        7. Search Functionality.
+    </string>
+
+    <string name="mobile_vas">BULK SMS\n
+        Bulk Messaging is a service that disseminates large numbers of SMS messages for delivery to mobile
+        phone terminals.
+        Commonly used for alerts, reminders, marketing but also for information and communication between both staff and customers.\n\n
+
+        SHORT CODES:\n
+        Short Codes are special telephone numbers, significantly shorter than full telephone numbers, that can be used to address
+        SMS messages from certain service providers\' mobile phones or fixed phones.
+        \nWidely used for value-added services such as television program voting, ordering ringtones, charity donations and
+        mobile services\n\n
+
+        USSD:\n
+        USSD stands for Unstructured Supplementary Service Data, an interactive GSM communication Service.
+        USSD allows interactive, 2-way communication between subscribers and applications.\n
+        \nUSSD allows interactive, 2-way communication between subscribers and applications.
+        It provides a quick way of reaching and communicating with your clients.
+        \nIt is a self administrative service that saves the client from the hassle of queuing for a service that would take a
+        minute to complete.
+        \nThese numbers come in series eg. *123# across all major mobile networks
+    </string>
+
+    <string name="seo_services">SEO stands for “Search Engine Optimization.” \n\nIt is the process of
+        getting traffic from the FREE, ORGANIC, EDITORIAL or NATURAL search results on search
+        engines. \nThis is online marketing strategy that ensures your website is ranked by search
+        engines including google, yahoo or bing.
+        \n\nSEO services you will get from our firm include Link Building Services, Social Bookmarking
+        Services, Keyword Research Services, Video Submission Service, Business Promotion SEM,
+        SEO packages, and Increase Facebook Fans.
+        \nThe SEO services are offered with guaranteed top results based on your keywords
+        Kenyaweb.com can increase the search engine rank and site traffic of any company.
+        \n\nThe expertise offered by its technical and copywriting staff enables us to successfully meet
+        the needs of companies with complex websites in competitive industries.
+        As experts in the search engine optimization and marketing industries, the management and
+        employees of Kenyaweb.com have a proven track record for crafting effective Internet
+        marketing strategies with measurable, long-term results.</string>
+
+    <string name="consultancy_services">Being experts in such an evolving field as ICT, we
+        specialize in delivering cost-effective &amp; time-saving solutions to our clients, by
+        distributing &amp; managing gold standard ICT products, which we stock locally.
+Our world-class service delivery culture has caused us to successfully compete with global
+        organizations in the local market, in creating a niche for ourselves.\n\n
+
+We have worked with Higher Institutions, County Governments, Banks, different governing bodies
+        locally, in their adaptation of the extensive use of ICT to improve their workforce
+        performance and organizational management. We present a turnkey solutions, completely taking
+        the weight off you.\n\n
+
+Our consultancy includes but not limited to planning, development, implementation, utilization,
+        exploitation, management, control and maintenance of information systems..</string>
+
+
+
+    <string name="mpesa_title">MPESA PAYBILL</string>
+    <string name="mpesa_text">Follow the Easy steps below:\n\n
+            1) Go to M-PESA Menu on your mobile phone.\n\n
+            2) Select Pay Bill.\n\n
+            3) Enter 951600 as the Business Number.\n\n
+            4) Enter the SERVICE TYPE as ACCOUNT NUMBER option. e.g. Bulk SMS,Domain.\n\n
+            5) Enter the value amount to pay (NO COMMAS) e.g 200\n\n
+            6) Enter your M-PESA PIN.\n\n
+            7) Then send the request.\n\n
+            8) You will receive an SMS confirming the transaction.\n\n
+            9) Click finish button after receiving the confirmation sms.</string>
+
+    <string name="tnb_title">TRANSNATIONAL BANK</string>
+    <string name="tnb_text">
+            Account number: 0010776066.\n\n
+    </string>
+
+    <string name="cba_title">COMMERCIAL BANK OF AFRICA</string>
+    <string name="cba_text">
+            Account number: 6504840017.\n\n
+    </string>
+
+    <string name="kcb_title">KENYA COMMERCIAL BANK</string>
+    <string name="kcb_text">
+            Account number: 1105191990.\n\n
+    </string>
+
+
+    <!--FCM-->
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+</resources>

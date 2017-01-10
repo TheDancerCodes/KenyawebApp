@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.kenyaweb.kenyawebapp.ContactFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/contact"
+        android:paddingTop="16dp"/>
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Call Nairobi Office"
+        android:id="@+id/btn_call_nrb"
+        android:drawableLeft="@drawable/ic_action_phone"
+        android:drawableRight="@drawable/ic_action_phone"
+        android:layout_gravity="center_horizontal" />
+
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email Nairobi Office"
+        android:id="@+id/btn_mail_nrb"
+        android:drawableLeft="@drawable/ic_action_mail"
+        android:drawableRight="@drawable/ic_action_mail"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Call Mombasa Office"
+        android:id="@+id/btn_call_msa"
+        android:drawableLeft="@drawable/ic_action_phone"
+        android:drawableRight="@drawable/ic_action_phone"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email Mombasa Office"
+        android:id="@+id/btn_mail_msa"
+        android:drawableLeft="@drawable/ic_action_mail"
+        android:drawableRight="@drawable/ic_action_mail"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visit Website"
+        android:id="@+id/btn_website"
+        android:drawableLeft="@drawable/ic_action_globe"
+        android:drawableRight="@drawable/ic_action_globe"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Facebook"
+        android:id="@+id/btn_fb"
+        android:drawableLeft="@drawable/ic_action_facebook"
+        android:drawableRight="@drawable/ic_action_facebook"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Twitter"
+        android:id="@+id/btn_tw"
+        android:drawableLeft="@drawable/ic_action_twitter"
+        android:drawableRight="@drawable/ic_action_twitter"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LinkedIn"
+        android:id="@+id/btn_ln"
+        android:drawableLeft="@drawable/ic_action_linkedin"
+        android:drawableRight="@drawable/ic_action_linkedin"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
+</ScrollView>
